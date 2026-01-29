@@ -10,3 +10,6 @@
 
 ## 📫 Contact
 [LinkedIn](https://br.linkedin.com/in/matheus-zandoná-0b9602393) | [Email](mailto:matheuszandonaa@gmail.com)
+
+## Competitive programming
+[Codeforces](https://codeforces.com/profile/SokaZando) | [LeetCode](https://leetcode.com/u/zandona3809/)
