@@ -7,8 +7,8 @@
 ![VHDL](https://img.shields.io/badge/-VHDL-512BD4?logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-E95420?logo=git&logoColor=white)
-![React](https://img.shields.io/badge/-React-E95420?logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-E95420?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-512BD4?logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-00599C?logo=node.js&logoColor=white)
 
 ## 📫 Contact
 [LinkedIn](https://br.linkedin.com/in/matheus-zandoná-0b9602393) | [Email](mailto:matheuszandonaa@gmail.com)
