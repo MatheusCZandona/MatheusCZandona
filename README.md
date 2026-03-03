@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Matheus Zandoná
 
-💻 Competitive programmer
-Looking for challenges and opportunities
+💻 Competitive programmer | Looking for challenges and opportunities
 
 ## 🚀 Technologies & Tools
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
