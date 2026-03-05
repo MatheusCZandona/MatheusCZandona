@@ -9,7 +9,7 @@
 ![Git](https://img.shields.io/badge/-Git-E95420?logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/-React-512BD4?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-00599C?logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-mysql-512BD4?logo=mysql%2b%2b&logoColor=white)
+![MySQL](https://img.shields.io/badge/-mysql-00599C?logo=MySQL%2b%2b&logoColor=white)
 
 ## 📫 Contact
 [LinkedIn](https://br.linkedin.com/in/matheus-zandoná-0b9602393) | [Email](mailto:matheuszandonaa@gmail.com)
