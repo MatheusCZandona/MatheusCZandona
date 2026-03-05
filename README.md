@@ -2,14 +2,19 @@
 
 💻 Competitive programmer | Looking for challenges and opportunities
 
-## 🚀 Technologies & Tools
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
-![VHDL](https://img.shields.io/badge/-VHDL-512BD4?logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-E95420?logo=git&logoColor=white)
-![React](https://img.shields.io/badge/-React-512BD4?logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-00599C?logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-mysql-00599C?logo=MySQL%2b%2b&logoColor=white)
+## 🚀 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-512BD4?style=for-the-badge)
+
+## ⚙️ Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+## 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📫 Contact
 [LinkedIn](https://br.linkedin.com/in/matheus-zandoná-0b9602393) | [Email](mailto:matheuszandonaa@gmail.com)
